@@ -43,9 +43,12 @@ A modern, dark-themed Flutter authentication app with Sign In, Sign Up, Forgot P
 
 ## **Screenshots**
 
-*(Add your screenshots here if available, e.g., `screenshots/signin.png`)*
+![WhatsApp Image 2025-12-07 at 20 15 27](https://github.com/user-attachments/assets/12264e33-0703-4a6d-a1b9-51ff70c235f0)
 
----
+![WhatsApp Image 2025-12-07 at 20 15 26](https://github.com/user-attachments/assets/5778f86f-51c4-408d-9441-128922b7404e)
+
+![WhatsApp Image 2025-12-07 at 20 15 26 (1)](https://github.com/user-attachments/assets/bb6e3dc3-f684-41a5-9cad-5f70affa9adc)
+![WhatsApp Image 2025-12-07 at 20 15 26 (2)](https://github.com/user-attachments/assets/bed78de6-c09f-4dfd-a783-580014791593)
 
 ## **Getting Started**
 
